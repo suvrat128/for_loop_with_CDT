@@ -10,8 +10,8 @@ print(count)
 
 '''
 # process
-1. took main string as input
-2. took substring as input
+1. took main string as input  # 'hello'
+2. took substring as input  # 'o'
 3. by assuming given substring is not present in mainstring c=0
 4. by using for loop
     iteration1:
