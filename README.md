@@ -1,7 +1,7 @@
 For loop: 
 For loop will perform below mentioned operations 
-  # initialisation 
-  # traversing 
+  initialisation 
+  traversing 
  
 We can use for loop in 3 ways  
   1. With collection data types 
