@@ -4,9 +4,9 @@ Looping statements:
 
 2. In python we have 2 types of looping statements 
 
-  1. For loop(when u know how many times to iterate) 
+    1. For loop(when u know how many times to iterate) 
 
-  2. While loop (when u r not sure how many times to iterate)
+    2. While loop (when u r not sure how many times to iterate)
 
      
 For loop: 
